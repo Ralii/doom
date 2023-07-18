@@ -13,7 +13,6 @@
 
 (setq projectile-ignored-projects
       '("/tmp"
-        "~/Documents/iprally/"
         "~/.cache"
         "~/.emacs.d/.local/straight/repos/"))
 
